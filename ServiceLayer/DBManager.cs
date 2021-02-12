@@ -9,12 +9,20 @@ namespace ServiceLayer
 {
     public static class DBManager
     {
+        private static FactoryManager<Customer, int> customerManager;
+        private static FactoryManager<Product, string> productManager;
+        private static FactoryManager<Order, int> orderManager;
 
         public static void Run(string internalContext, string dbManager, string connectionString, string command, params object[] arguments)
         {
             switch (internalContext)
             {
                 case "customers":
+
+                    if (customerManager == null || customerManager.connectionString != connectionString)
+                    {
+                        customerManager = new FactoryManager<Customer, int>(dbManager, internalContext, connectionString);
+                    }
 
                     switch (command)
                     {
@@ -24,17 +32,32 @@ namespace ServiceLayer
                             
                             if (customer != null)
                             {
-                                new FactoryManager<Customer, int>(dbManager, internalContext, connectionString).Create(customer);
+                                customerManager.Create(customer);
                             }
+
                              break;
+
                         case "read":
                             ;
                             break;
+
                         case "update":
                             ;
                             break;
+
                         case "delete":
-                            ;
+
+                            Customer foundCustomer = customerManager.Find(arguments[0].ToString());
+
+                            if (foundCustomer != null)
+                            {
+                                customerManager.Delete(Convert.ToInt32(foundCustomer.id));
+                            }
+                            else
+                            {
+                                throw new ArgumentNullException("There is no customer with that name!", new NullReferenceException());
+                            }
+                            
                             break;
                         default:
                             break;
