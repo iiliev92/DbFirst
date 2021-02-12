@@ -18,5 +18,7 @@ namespace BusinessLayer
 
         void Delete(K key);
 
+        T Find(string index);
+
     }
 }
