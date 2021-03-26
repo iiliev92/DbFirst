@@ -1,0 +1,12 @@
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\BusinessLayer.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\BusinessLayer.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\obj\Debug\BusinessLayer.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\obj\Debug\BusinessLayer.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache

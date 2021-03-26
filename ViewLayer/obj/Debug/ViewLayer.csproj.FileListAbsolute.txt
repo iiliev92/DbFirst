@@ -1,0 +1,7 @@
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\bin\Debug\ViewLayer.exe.config
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\bin\Debug\ViewLayer.exe
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\bin\Debug\ViewLayer.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\obj\Debug\ViewLayer.csprojAssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\obj\Debug\ViewLayer.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\obj\Debug\ViewLayer.exe
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\DataBaseFirst\ViewLayer\obj\Debug\ViewLayer.pdb
